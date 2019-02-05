@@ -1,0 +1,7 @@
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\AppAdministracionEmpleados\AppAdministracionEmpleados\bin\Debug\AppAdministracionEmpleados.exe.config
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\AppAdministracionEmpleados\AppAdministracionEmpleados\bin\Debug\AppAdministracionEmpleados.exe
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\AppAdministracionEmpleados\AppAdministracionEmpleados\bin\Debug\AppAdministracionEmpleados.pdb
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\AppAdministracionEmpleados\AppAdministracionEmpleados\obj\Debug\AppAdministracionEmpleados.Properties.Resources.resources
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\AppAdministracionEmpleados\AppAdministracionEmpleados\obj\Debug\AppAdministracionEmpleados.csproj.GenerateResource.Cache
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\AppAdministracionEmpleados\AppAdministracionEmpleados\obj\Debug\AppAdministracionEmpleados.exe
+C:\Users\Maykol\Documents\Software deveploment\C Sharp\AppAdministracionEmpleados\AppAdministracionEmpleados\obj\Debug\AppAdministracionEmpleados.pdb
